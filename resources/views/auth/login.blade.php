@@ -8,7 +8,7 @@
     <meta content="" name="description"/>
     <meta content="" name="author"/>
 
-    <title>Gymie - Login</title>
+    <title>Strong Girls - Login</title>
 
     <!-- BEGIN CORE FRAMEWORK -->
     <link href="{{ URL::asset('assets/plugins/bootstrap/css/bootstrap.min.css') }}" rel="stylesheet"/>
@@ -68,7 +68,7 @@
                 <button type="submit" class="btn btn-dark bg-light-green-500 padding-10 btn-block color-white"><i class="ion-log-in"></i> Sign in</button>
             </div>
         </form>
-        <div class="panel-footer padding-md no-margin no-border bg-grey-900 text-center color-white">&copy; 2016 Gymie by LUBUS</div>
+        <div class="panel-footer padding-md no-margin no-border bg-grey-900 text-center color-white">&copy; 2021 Strong Girls</div>
     </div>
 </div>
 
